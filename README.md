@@ -64,5 +64,4 @@ This repository provides a summary of deep learning-based SIRR algorithms. All o
 | [SIR<sup>2</sup>](https://drive.google.com/file/d/1A5T1c53CNac5xQ8e1awOUVYiWzUPotDn/view) | Test | 500 |
 | [Real20](https://drive.google.com/drive/folders/1NYGL3wQ2pRkwfLMcV2zxXDV8JRSoVxwA) | Training & Test | 20+89 |
 | [Nature](https://drive.google.com/file/d/1YWkm80jWsjX6XwLTHOsa8zK3pSRalyCg/view) | Test | 200 |
-| [Net45](https://github.com/fqnchina/CEILNet)(testdata_reflection_synthetic_table2) | Test | 45 |
 | [CDR](https://github.com/XUHUAKing/CDR-download-scripts) | Test | 1063 |
