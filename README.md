@@ -48,7 +48,7 @@ This repository provides a summary of deep learning-based SIRR algorithms. All o
 | 2021 | TIP | Deep-Masking Generative Network: A Unified Framework for Background Restoration from Superimposed Images | \[[paper](https://arxiv.org/pdf/2010.04324v2.pdf)\]<br />\[[code](https://github.com/funkdub/DMGN-Deep-Masking-Generative-Network-TIP2021)\] |
 | 2022 | WACV | Improving Single-Image Defocus Deblurring: How Dual-Pixel Images Help Through Multi-Task Learning | [[paper](https://arxiv.org/pdf/2108.05251.pdf)\]<br />\[[code](https://github.com/Abdullah-Abuolaim/multi-task-defocus-deblurring-dual-pixel-nimat)\] |
 | 2022 | PAMI | Benchmarking Single-Image Reflection Removal Algorithms | [[paper](https://ieeexplore.ieee.org/document/9760117)\]<br />\[[website](https://sir2data.github.io/)\] |
-| 2023 | CVPR | Robust Single Image Reflection Removal Against Adversarial Attacks | [[paper](https://openaccess.thecvf.com/content/CVPR2023/html/Song_Robust_Single_Image_Reflection_Removal_Against_Adversarial_Attacks_CVPR_2023_paper.html)\]<br />\[ \] |
+| 2023 | CVPR | :star2: Robust Single Image Reflection Removal Against Adversarial Attacks | [[paper](https://openaccess.thecvf.com/content/CVPR2023/html/Song_Robust_Single_Image_Reflection_Removal_Against_Adversarial_Attacks_CVPR_2023_paper.html)\]<br />\[ \] |
 
 ## Image Quality Assessment
 
