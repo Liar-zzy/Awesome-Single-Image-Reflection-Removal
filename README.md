@@ -33,6 +33,7 @@ This repository provides a summary of deep learning-based SIRR algorithms. All o
 - [:boom: SIRR](#boom-sirr)
 - [:hugs: Image Quality Assessment](#hugs-image-quality-assessment)
 - [:+1: Benchmark Datasets](#1-benchmark-datasets)
+- [:sparkles: Acknowledgement](#sparkles-acknowledgement)
 
 ## :boom: SIRR
 
@@ -80,3 +81,8 @@ This repository provides a summary of deep learning-based SIRR algorithms. All o
 | [Real20](https://drive.google.com/drive/folders/1NYGL3wQ2pRkwfLMcV2zxXDV8JRSoVxwA) | Training & Test | 89 & 20   |
 | [Nature](https://drive.google.com/file/d/1YWkm80jWsjX6XwLTHOsa8zK3pSRalyCg/view) | Test            | 20        |
 | [CDR](https://github.com/XUHUAKing/CDR-download-scripts)     | Test            | 1063      |
+
+## :sparkles: Acknowledgement
+
+This work is inspired by [awesome-reflection-removal](https://github.com/ChenyangLEI/awesome-reflection-removal) and [Awesome-Reflection-Removal](https://github.com/vinthony/awesome-reflection-removal).
+
