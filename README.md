@@ -4,9 +4,9 @@
   <p align="center">A collection of Single image reflection removal.  
     <br />
     <br />
-    <a href="https://github.com/TaoWangzj/Awesome-Face-Restoration/issues/new">Suggest new item</a>
+    <a href="https://github.com/Liar-zzy/Awesome-Single-Image-Reflection-Removal/issues/new">Suggest new item</a>
     <br />
-    <a href="https://github.com/TaoWangzj/Awesome-Face-Restoration/issues/new">Report Bug</a>
+    <a href="https://github.com/Liar-zzy/Awesome-Single-Image-Reflection-Removal/issues/new">Report Bug</a>
   </p>
   <p align="center">
     <a href="https://github.com/Liar-zzy/Awesome-Single-Image-Reflection-Removal">
